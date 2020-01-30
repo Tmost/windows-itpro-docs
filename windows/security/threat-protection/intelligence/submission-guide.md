@@ -34,7 +34,7 @@ No, we only accept submissions through our [sample submission portal](https://ww
 
 ## Can I submit a sample without signing in?
 
-Yes, you many submit a file as an anonymous home customer. You will get a link to a webpage where you can view the status of the submission.
+Yes, you may submit a file as an anonymous home customer. You will get a link to a webpage where you can view the status of the submission.
 
 If you're an enterprise customer, you need to sign in so that we can prioritize your submission appropriately. If you are currently experiencing a virus outbreak or security-related incident, you should contact your designated Microsoft support professional or go to [Microsoft Support](https://support.microsoft.com/) for immediate assistance.
 
